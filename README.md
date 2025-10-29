@@ -1,8 +1,8 @@
-# [your app name here]
+# [In touch]
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: [Riley Rosenberger, Ankit Gupta, Md Hossain]
 
 🔗 Link to deployed app:
 
@@ -10,35 +10,35 @@ Designed and developed by: [your names here]
 
 ### Description and Purpose
 
-[text goes here]
+[In touch is a social media platform purposed towards helping user's to manage the connections that are valuable to them and remember to stay in touch. The app is built with the goal to drive user's to reach out to people they might not have conversed with recently and maintain their meaningful connections]
 
 ### Inspiration
 
-[text goes here]
+[The inspiration is rooted in the fact that, from getting bogged down with things like school and work, we can often forget to connect with people who are important to us and lose touch. By creating a platform focused towards resolving this, we can hold onto our connections and not forget to reach out]
 
 ## Tech Stack
 
-Frontend:
+Frontend: React
 
-Backend:
+Backend: Express
 
 ## Features
 
-### [Name of Feature 1]
+### [Connect]
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 2]
-
-[short description goes here]
+[User's can click to create a new connection with another user]
 
 [gif goes here]
 
-### [Name of Feature 3]
+### [Login]
 
-[short description goes here]
+[There is login authentication for a user]
+
+[gif goes here]
+
+### [Profile Updates]
+
+[User's can update their profile to reflect their personality and any other relevant information]
 
 [gif goes here]
 
